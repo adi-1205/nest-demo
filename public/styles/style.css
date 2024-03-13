@@ -1,0 +1,12 @@
+
+.form-error{
+    color: red !important;
+    display: none;
+}
+.form-valid{
+    outline: none !important;
+}
+.form-invalid{
+    outline: none !important;
+    border: solid 1px red;
+}
